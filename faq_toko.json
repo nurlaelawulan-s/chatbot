@@ -1,0 +1,30 @@
+[
+  {
+    "tag": "jam_operasional",
+    "keywords": ["jam buka", "jam operasional", "buka jam berapa", "sampai jam berapa", "tutup jam berapa"],
+    "answer": "Toko Wulan Beauty buka setiap hari dari jam 08.00 sampai jam 21.00 WIB."
+  },
+  {
+    "tag": "alamat",
+    "keywords": ["alamat", "lokasi", "di mana", "dimana", "maps", "adiwerna"],
+    "answer": "Alamat Wulan Beauty: Adiwerna, Kota Tegal, Jawa Tengah."
+  },
+  {
+    "tag": "cara_order",
+    "keywords": ["cara order", "cara pesan", "beli bagaimana", "order dimana", "order lewat apa", "pesan lewat apa"],
+    "answer": "Cara order di Wulan Beauty:\n• Tokopedia\n• Shopee\n• WhatsApp: 085643122697\n• Datang langsung ke alamat kami di Adiwerna, Kota Tegal."
+  },
+  {
+    "tag": "produk",
+    "keywords": ["jual apa saja", "produk apa saja", "barang apa saja", "skincare", "makeup", "haircare", "parfum dan aromaterapi"],
+    "answer": "Wulan Beauty menyediakan Skincare, Parfum, Make Up, Hair Care, Body Care"
+  
+
+
+  },
+  { "tag" : "kata_kasar",
+    "keywords" : ["tolol", "anjing", "bego", "goblok"],
+    "answer" : "Mohon menggunakan bahasa yang sopan!!!"
+  }
+
+]
